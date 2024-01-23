@@ -1,0 +1,17 @@
+{
+    "name": "learning/pkg",
+    "description": "laravel learning pakage for try something new...",
+    "keywords": [
+        "laravel",
+        "learning"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Learning\\Pkg\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
